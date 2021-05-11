@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Sacha
+- 🐶 I'm a veterinary student who likes to spend his free time on his computer
+- 💻 I love programming and trying to make stuff with my knowledge of computers
+- 🕹 I also like chess and video games very much
+- 📩 Feel free to message me if you'd like to talk about something 
